@@ -1,16 +1,14 @@
-/*  your css code here. If applicable */
 .main{
-	Background-color: #f5f5f5;
-	padding: 30px;
+	background-color:#f5f5f5;
+	padding:15px;
 }
-#author{
+
+div{
+	padding:15px;
+	background-color: #ffffff;
+	border: 1px solid gray;
+}
+.author{
 	text-align:right;
-	justify-content:right
-	Font-style:italic;
-}
-p{
-	border: 1px solid  lightgray;
-	background:white;
-	padding:10px;
-	margin-bottom:10px;
+	font-style:italic;
 }
